@@ -14,3 +14,5 @@ Then the result is
   | yellow | true  | foo          |
   | red    | true  | a big result |
 ```
+
+test
